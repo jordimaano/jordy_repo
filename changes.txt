@@ -1,2 +1,5 @@
 This is a new text file created in branch 1.
+Added new line on changes.txt
 
+
+Branch 1 changes
