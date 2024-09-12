@@ -1,0 +1,4 @@
+Another text file made on branch 2.
+
+
+this is a sample text.
